@@ -1,0 +1,34 @@
+# Comandos básicos para um bom desempenho terminal
+
+**GUI x CLI**
+
+- A maioria dos sistemas operacionais possuem programas que tem uma interface gráfica, ou seja, a forma que o usuário interage com esse programas e de forma gráfica, pode arrastar, clicar dentre outros.
+
+O Git não tem uma interface gráfica, a forma de interagir com o Git é por linha de comando.
+
+**O QUE VAMOS APRENDER?**
+
+- Mudar pastas
+- Listar as pastas
+- Criar pastas/arquivos
+- Deletar pastas/arquivos
+
+**Windows**
+
+- **cd** (Se colocar dois pontos, volta para o comando principal)
+- cls( limpar os comando)
+- dir
+- mkdir
+- del / rmdir
+- mkdir workspace
+- ​
+
+Obs: A tecla Tab nos proporciona um atalho que escreve nomes grandes, assim, nos poupando.
+
+**Unix**
+
+- cd
+- Is
+- mkdir
+- rm -rf
+- Del (Deletar arquivo dentro de uma pasta)
