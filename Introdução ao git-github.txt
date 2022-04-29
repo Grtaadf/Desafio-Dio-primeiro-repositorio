@@ -1,0 +1,21 @@
+#Git: Sistema de  versionamento de códigos distribuídos
+
+- Torvalds é o criador do Linux
+
+O software é feito de uma forma colaborativa.
+
+##### O Git é um software de direcionamento de código, vai nos ajudar a criar e monitorar diversas versões do código.
+
+##### O GitHub é da empresa Microsoft.
+
+Git e GitHub são duas tecnologias totalmente diferentes, porém complementares.
+
+- criado em 2005  ele foi criado pelo Linus Torvalds.
+
+###Vantagens de estarmos aprendendo a tecnologia Git:
+
+- Controle de versão
+- Armazenamento em nuvem
+- Trabalho em equipe
+- Melhorar o seu código
+- Reconhecimento
