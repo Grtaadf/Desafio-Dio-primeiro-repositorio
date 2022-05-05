@@ -1,0 +1,26 @@
+***Entendendo como o GIT funciona por baixo dos panos:***
+
+**SHA1;**
+
+**Objetos fundamentais;**
+
+**Sistema distribuído;**
+
+**Segurança.**
+
+
+SHA1: 
+
+- **A sigla SHA, significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).**
+- **A encriptação gera conjunto de characteres identificador de 40 dígitos.**
+- **É uma forma curta de representar um arquivo. Ex:**
+
+           1  **echo “olá mundo” | openssl sha1**
+
+- **(stdin)= f9fc856e559b950175f2b7cd7dad61facbe58e7b**
+
+Objetos internos do git:
+
+- **BLOBS**
+- **TREES**
+- **COMMITS**
